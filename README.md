@@ -8,9 +8,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
-<!-- <h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com) -->
 
 <h2>Environments and Technologies Used</h2>
 
@@ -225,12 +222,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <br />
 <br />
-<p>
-  I hope this tutorial helped you learn a little bit about network security protocols and observe traffic between virtual machines. This can be easily done on a PC or a Mac. Mac would just have an extra step to download the Remote Desktop App.
-</p>
-<p>
-  Now that we're done, DON'T FORGET TO CLEAN UP YOUR AZURE ENVIRONMENT so that you don't incur unnecessary charges.
-</p>
-<p>
-  Close your Remote Desktop connection, delete the Resource Group(s) created at the beginning of this tutorial, and verify Resource Group deletion.
+
+- I hope this tutorial gave you a better understanding of network security protocols and how to observe traffic between virtual machines. This process can be done on both PC and Mac, with Mac users simply needing the additional step of downloading the Remote Desktop App.
+
+- Before wrapping up, remember to clean up your Azure environment to avoid unnecessary charges.
+
+- Be sure to close your Remote Desktop session, delete the Resource Group(s) you created at the start of this tutorial, and confirm that the Resource Group has been fully removed.
 </p>
